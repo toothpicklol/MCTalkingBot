@@ -1,0 +1,10 @@
+name: TalkingDonkey
+version: 1.0
+description: ya
+author: Tony Foster
+main: tw.mcark.talkingdonkey.TalkingDonkey
+api-version: 1.16
+commands:
+  ask:
+    description:
+    usage:
